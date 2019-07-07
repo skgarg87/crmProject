@@ -11,8 +11,13 @@ namespace GitProjects
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //mmm
-            //PQR
+            //first we work on our branches and then comment as stage by stage and push on our branch
+            // then select master branch and pull then go back again on our branch 
+            // then select manage branch then message from  we select master
+            // then go back again in master branch then message from we select our branch
+            // then master push 
+
+            // if some one same then we get conflict by conflict there is option of merge code then push
         }
     }
 }
